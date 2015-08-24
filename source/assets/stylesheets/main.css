@@ -1,0 +1,10 @@
+.main {
+  margin: 0 auto 0 auto;
+  height: 1400px;
+}
+.main {
+  background: #175425 none center no-repeat;
+}
+.main h1 {
+  font-family: 'Lora', serif;
+}
